@@ -116,6 +116,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/saaddhm/saaddhm/snake.svg" alt="Snake animation" />
 
-###
